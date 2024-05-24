@@ -8,7 +8,7 @@
     </TestPlan>
     <hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="TEST ANEXO">
-        <intProp name="ThreadGroup.num_threads">180</intProp>
+        <intProp name="ThreadGroup.num_threads">440</intProp>
         <intProp name="ThreadGroup.ramp_time">1</intProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
